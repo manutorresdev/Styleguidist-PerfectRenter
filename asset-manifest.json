@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/build/main.7131efad.js",
+    "main.js": "/build/main.53b3c270.js",
     "runtime-main.js": "/build/bundle.c0e43e4d.js",
     "static/css/2.ffd4c6a0.chunk.css": "/static/css/2.ffd4c6a0.chunk.css",
-    "build/2.50fdfc26.js": "/build/2.50fdfc26.js",
+    "build/2.ffa357ab.js": "/build/2.ffa357ab.js",
     "bgheader.jpg": "/bgheader.jpg",
-    "build/2.50fdfc26.js.LICENSE.txt": "/build/2.50fdfc26.js.LICENSE.txt",
+    "build/2.ffa357ab.js.LICENSE.txt": "/build/2.ffa357ab.js.LICENSE.txt",
     "familia.jpg": "/familia.jpg",
     "flat.jpg": "/flat.jpg",
     "fondo-gris.jpeg": "/fondo-gris.jpeg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "build/bundle.c0e43e4d.js",
     "static/css/2.ffd4c6a0.chunk.css",
-    "build/2.50fdfc26.js",
-    "build/main.7131efad.js"
+    "build/2.ffa357ab.js",
+    "build/main.53b3c270.js"
   ]
 }
