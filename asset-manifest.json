@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/build/main.53b3c270.js",
+    "main.js": "/build/main.54e918c8.js",
     "runtime-main.js": "/build/bundle.c0e43e4d.js",
-    "static/css/2.ffd4c6a0.chunk.css": "/static/css/2.ffd4c6a0.chunk.css",
-    "build/2.ffa357ab.js": "/build/2.ffa357ab.js",
+    "static/css/2.a9f612ec.chunk.css": "/static/css/2.a9f612ec.chunk.css",
+    "build/2.aa3347cc.js": "/build/2.aa3347cc.js",
     "bgheader.jpg": "/bgheader.jpg",
-    "build/2.ffa357ab.js.LICENSE.txt": "/build/2.ffa357ab.js.LICENSE.txt",
+    "build/2.aa3347cc.js.LICENSE.txt": "/build/2.aa3347cc.js.LICENSE.txt",
     "familia.jpg": "/familia.jpg",
     "flat.jpg": "/flat.jpg",
     "fondo-gris.jpeg": "/fondo-gris.jpeg",
@@ -22,14 +22,14 @@
     "renter.jpg": "/renter.jpg",
     "rochi.jpg": "/rochi.jpg",
     "rocio.jpg": "/rocio.jpg",
-    "static/css/2.ffd4c6a0.chunk.css.map": "/static/css/2.ffd4c6a0.chunk.css.map",
+    "static/css/2.a9f612ec.chunk.css.map": "/static/css/2.a9f612ec.chunk.css.map",
     "static/media/defPicture.jpg": "/static/media/defPicture.a54557be.jpg",
     "static/media/defProfile.png": "/static/media/defProfile.40ebf659.png"
   },
   "entrypoints": [
     "build/bundle.c0e43e4d.js",
-    "static/css/2.ffd4c6a0.chunk.css",
-    "build/2.ffa357ab.js",
-    "build/main.53b3c270.js"
+    "static/css/2.a9f612ec.chunk.css",
+    "build/2.aa3347cc.js",
+    "build/main.54e918c8.js"
   ]
 }
